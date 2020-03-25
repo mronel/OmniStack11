@@ -3,7 +3,10 @@
 
 Projeto criado na semana OmniStack11 utilizando as tecnologias:
 
-### NodeJs (backend)
+### NodeJs
+*Desenvolvimento de uma API para consumo via Web e Mobile.*
+
+Componentes utilizados:
 - Express: framework para gerenciamento de rotas ( https://expressjs.com/pt-br/ )
 - Knex: framework para gerenciamento de migrations e query builder ( http://knexjs.org/ )
 - CORS: permissão de requisições do domínio configurado via cabeçalho.

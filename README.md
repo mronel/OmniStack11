@@ -26,9 +26,9 @@ Projeto criado na semana OmniStack11 utilizando as tecnologias:
 ### React Native (Mobile)
 *Desenvolvimento do Front End e consumo da API.
 
-Expo: criar e executar projetos mobile em React Native sem necessidade de instalar SDK.
-Rotas: criação de rotas. (npm install @react-navigation/native e expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view) 
-Integração com E-mail: expo install expo-mail-composer
-Integração com WhatsApp: componente react-native Linking
-Client HTTP Axios (npm install axios)
-INTL: formatar datas e moedas (npm install intl)
+- Expo: criar e executar projetos mobile em React Native sem necessidade de instalar SDK.
+- Rotas: criação de rotas. (npm install @react-navigation/native e expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view) 
+- Integração com E-mail: expo install expo-mail-composer
+- Integração com WhatsApp: componente react-native Linking
+- Client HTTP Axios (npm install axios)
+- INTL: formatar datas e moedas (npm install intl)
